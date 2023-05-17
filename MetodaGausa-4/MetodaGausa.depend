@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1640873326 source:d:\korepetycje\osoby\aleksandralublin\metodagausa\main.cpp
+	<iostream>
+	<fstream>
+	"math.h"
+
+1641060661 source:c:\users\samsung\desktop\metodagaussa\metodagausa\main.cpp
+	<iostream>
+	<fstream>
+	"math.h"
+
